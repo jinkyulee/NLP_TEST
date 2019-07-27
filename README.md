@@ -1,2 +1,3 @@
-# NLP_TEST 2
-
+def hello():
+	print('hello')
+	print('NLP') 
